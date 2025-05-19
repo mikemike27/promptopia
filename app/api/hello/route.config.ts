@@ -1,1 +1,1 @@
-export const schedule = '0 0 * * *';
+export const schedule = '*/1 * * * *';
